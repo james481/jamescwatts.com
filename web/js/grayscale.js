@@ -48,6 +48,9 @@ function init() {
         scrollwheel: false,
         draggable: false,
 
+        // Show Terrain
+        mapTypeId: 'TERRAIN',
+
         // How you would like to style the map.
         // This is where you would paste any style found on Snazzy Maps.
         styles: [{
